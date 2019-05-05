@@ -123,6 +123,7 @@ public class MyWebView extends AppCompatActivity {
             </intent-filter>
         </activity>
     </application>  
+    <uses-permission android:name="android.permission.INTERNET"></uses-permission>  
 ```  
 
 结果截图  
